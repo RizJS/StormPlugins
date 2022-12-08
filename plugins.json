@@ -8,7 +8,14 @@
     "releases": [
       {
         "date": "2022-12-08",
-        "sha512sum": "5EB09A841BEB11C3028CF76098EC4EB6C4E4E22FA52052ECF19070585F60D6ECAFD31FDB2BEDF984A83F9F146AB6C946E20788CD432280D16E5E2820D5BC9C15",
+        "sha512sum": "031A73CE51B99B4C85856189BE1B162214B40745BEED20BF7D643ECB3A25C8E8E62D20BE3F36EF3E4DAF373AF8E8E99621F528F16CB16043347C987A2661C3F3",
+        "version": "0.0.7",
+        "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpcrabs-0.0.7.jar",
+        "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-12-08",
+        "sha512sum": "441FF1D29E2EF8D5FD667A0DB51AD727039351D68A4885AB22DC95BE0C840807BB329F08694B7A4A9BD3500474D45D2BA57C96E66CBB808D4FD018AD4701BE66",
         "version": "0.0.8",
         "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpcrabs-0.0.8.jar",
         "requires": "^1.0.0"
@@ -70,6 +77,13 @@
     "description": "Does some bank skilling",
     "id": "warpskiller-plugin",
     "releases": [
+      {
+        "date": "2022-12-08",
+        "sha512sum": "383235E67E83D2C4DD85E450543B718626DDEBE35891855B7641D77766249A3721F72B0382EAA175C5207FC632A08D4322D5B2FB2A95811A2A2FCCEA80A6D795",
+        "version": "0.1.8",
+        "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpskiller-0.1.8.jar",
+        "requires": "^1.0.0"
+      },
       {
         "date": "2022-12-08",
         "sha512sum": "E8CEAE901A7862118B60B0E30FDB1FB1B9F2DFEF86186428D79003E24A585BD29BD153AF67491B3538B0282431B76F34710F5714D1E5B949F7FAC22EE4B45814",
