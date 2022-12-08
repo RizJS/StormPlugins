@@ -1,0 +1,98 @@
+[
+  {
+    "projectUrl": "https://discord.gg/WTvTbSPknJ",
+    "provider": "Warp",
+    "name": "WarpCrabs",
+    "description": "Kills crabs and alchs",
+    "id": "warpcrabs-plugin",
+    "releases": [
+      {
+        "date": "2022-12-08",
+        "sha512sum": "031A73CE51B99B4C85856189BE1B162214B40745BEED20BF7D643ECB3A25C8E8E62D20BE3F36EF3E4DAF373AF8E8E99621F528F16CB16043347C987A2661C3F3",
+        "version": "0.0.7",
+        "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpcrabs-0.0.7.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WTvTbSPknJ",
+    "provider": "Warp",
+    "name": "WarpCutter",
+    "description": "Get to the Chopper",
+    "id": "warpcutter-plugin",
+    "releases": [
+      {
+        "date": "2022-12-08",
+        "sha512sum": "9C67E71CB3B44253A8110FB61AD7D3DCF0E00CD58BA8C3253EA05AD60BDB9D4254958F9308707F13D9CAF78A3E9168A9AC21235A0AF4AA968C4C971A8B2B69F1",
+        "version": "0.1.0",
+        "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpcutter-0.1.0.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WTvTbSPknJ",
+    "provider": "Warp",
+    "name": "Warp Gauntlet",
+    "description": "Gear and prayer swapper for Hunlef/Corrupted",
+    "id": "warpgauntlet-plugin",
+    "releases": [
+      {
+        "date": "2022-12-08",
+        "sha512sum": "06008E0A9AFB7B23BBB6A4FBFC7D78E54C31849562EB579B3A4A4D2FF47E3F7ABAFCBCD97B59AC50E112EF9E24CCA67F8A93E73A80AD81A939B4DD0C9210F73B",
+        "version": "0.1.9",
+        "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpgauntlet-0.1.9.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WTvTbSPknJ",
+    "provider": "Warp",
+    "name": "Warp Master farmer thieving",
+    "description": "Steals from the poor farmers",
+    "id": "warpmasterfarmerthieving-plugin",
+    "releases": [
+      {
+        "date": "2022-12-08",
+        "sha512sum": "833DD96804A77EAF536D0E4CB2748A1A5A462ED649E1633E3F360D3B06B29AFB4A7397AECD7B08E4B59627EB520B97D4788E11733ECA558AD2917C52B8E2F692",
+        "version": "0.0.6",
+        "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpmasterthieving-0.0.6.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WTvTbSPknJ",
+    "provider": "Warp",
+    "name": "WarpSkiller",
+    "description": "Does some bank skilling",
+    "id": "warpskiller-plugin",
+    "releases": [
+      {
+        "date": "2022-12-08",
+        "sha512sum": "383235E67E83D2C4DD85E450543B718626DDEBE35891855B7641D77766249A3721F72B0382EAA175C5207FC632A08D4322D5B2FB2A95811A2A2FCCEA80A6D795",
+        "version": "0.1.8",
+        "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpskiller-0.1.8.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WTvTbSPknJ",
+    "provider": "Warp",
+    "name": "WarpVyreKiller",
+    "description": "Kills Vyre\u0027s next to bank",
+    "id": "warpvyrekiller-plugin",
+    "releases": [
+      {
+        "date": "2022-12-08",
+        "sha512sum": "E3D1D7B9AD2607ECD1DC056D1625378C6BE383833533C195A6D75162A27E79427FFADE631F8C1BBF8EC0F281A0D6E5BD521747D9C84E34A144040836A701B32B",
+        "version": "0.1.0",
+        "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpvyrekiller-0.1.0.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  }
+]
