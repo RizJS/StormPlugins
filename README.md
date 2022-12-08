@@ -2,6 +2,11 @@
 My free to use Storm-Client plugins
 For suggestions or features/bugs contact WaRp#9721
 
+# Thanks
+	* Pa1n for the support.
+	* Goobe, BarryHayze for idea's and some plugin info.
+	* Subaru, Keegan, Burak with support and help making the plugins.
+
 # Current Plugins:
 	* WarpCrabs - Sand crab killer supports 4 spots/Custom spot set on plugin start, Alching, Pickup ammo.
 	* WarpCutter - Supports multiple locations/Powerchopping anywhere, Special attack, Bird nest.
