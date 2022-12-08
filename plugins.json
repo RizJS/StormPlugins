@@ -8,9 +8,9 @@
     "releases": [
       {
         "date": "2022-12-08",
-        "sha512sum": "031A73CE51B99B4C85856189BE1B162214B40745BEED20BF7D643ECB3A25C8E8E62D20BE3F36EF3E4DAF373AF8E8E99621F528F16CB16043347C987A2661C3F3",
-        "version": "0.0.7",
-        "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpcrabs-0.0.7.jar",
+        "sha512sum": "5EB09A841BEB11C3028CF76098EC4EB6C4E4E22FA52052ECF19070585F60D6ECAFD31FDB2BEDF984A83F9F146AB6C946E20788CD432280D16E5E2820D5BC9C15",
+        "version": "0.0.8",
+        "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpcrabs-0.0.8.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -24,7 +24,7 @@
     "releases": [
       {
         "date": "2022-12-08",
-        "sha512sum": "9C67E71CB3B44253A8110FB61AD7D3DCF0E00CD58BA8C3253EA05AD60BDB9D4254958F9308707F13D9CAF78A3E9168A9AC21235A0AF4AA968C4C971A8B2B69F1",
+        "sha512sum": "ECC3CA8A194BA5B11EE5A714B587ED3E301E5FE91C08A139ACCF1A59824C1E2A114830BFEAA01164C9BBA2274C5AD1817954F1D0DD2BB2400CEA0709F2171EA6",
         "version": "0.1.0",
         "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpcutter-0.1.0.jar",
         "requires": "^1.0.0"
@@ -40,7 +40,7 @@
     "releases": [
       {
         "date": "2022-12-08",
-        "sha512sum": "06008E0A9AFB7B23BBB6A4FBFC7D78E54C31849562EB579B3A4A4D2FF47E3F7ABAFCBCD97B59AC50E112EF9E24CCA67F8A93E73A80AD81A939B4DD0C9210F73B",
+        "sha512sum": "6B240C9AE3C86EDE4DE7358991C3FFC609AFD0BD63A3B5997108ABCC35D3E1B7C0D861AF0DC9BEE1D793949637A22C64889F78FC93FF5EC9A157F120D3779790",
         "version": "0.1.9",
         "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpgauntlet-0.1.9.jar",
         "requires": "^1.0.0"
@@ -72,9 +72,9 @@
     "releases": [
       {
         "date": "2022-12-08",
-        "sha512sum": "383235E67E83D2C4DD85E450543B718626DDEBE35891855B7641D77766249A3721F72B0382EAA175C5207FC632A08D4322D5B2FB2A95811A2A2FCCEA80A6D795",
-        "version": "0.1.8",
-        "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpskiller-0.1.8.jar",
+        "sha512sum": "E8CEAE901A7862118B60B0E30FDB1FB1B9F2DFEF86186428D79003E24A585BD29BD153AF67491B3538B0282431B76F34710F5714D1E5B949F7FAC22EE4B45814",
+        "version": "0.1.9",
+        "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpskiller-0.1.9.jar",
         "requires": "^1.0.0"
       }
     ]
