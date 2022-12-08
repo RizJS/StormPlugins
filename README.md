@@ -2,7 +2,7 @@
 My free to use Storm-Client plugins
 For suggestions or features/bugs contact WaRp#9721
 
-# Thanks
+# Thanks:
 	* Pa1n for the support.
 	* Goobe, BarryHayze for idea's and some plugin info.
 	* Subaru, Keegan, Burak with support and help making the plugins.
