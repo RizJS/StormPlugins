@@ -8,7 +8,7 @@ For suggestions or features/bugs contact WaRp#9721
 	* Subaru, Keegan, Burak with support and help making the plugins.
 
 # Current Plugins:
-	* WarpCrabs - Sand crab killer supports 4 spots/Custom spot set on plugin start, Alching, Pickup ammo.
+	* WarpCrabs - CrabKiller does Sand/Ammonite supports Alching(Low/High), Looting.
 	* WarpCutter - Supports multiple locations/Powerchopping anywhere, Special attack, Bird nest.
 	* WarpGauntlet - Hunllef helper Eat/Prayer swap/Weapon swap/Drink pots Only Range/Mage support.
 	* WarpSkiller - Cuts Gems/Glassblowing, Fletches Bows (u),Plank make, High/Low alch, Superheat, Superheat Glass, Make potions, Clean herbs.
