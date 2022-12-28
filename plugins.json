@@ -185,5 +185,37 @@
         "requires": "^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WTvTbSPknJ",
+    "provider": "WaRp",
+    "name": "Warp Master thieving",
+    "description": "Steals from the poor",
+    "id": "warpmasterthieving-plugin",
+    "releases": [
+      {
+        "date": "2022-12-28",
+        "sha512sum": "4F5DE5AF8D9B75DCC9774935071ECE3B89662D9092E2863A8CD6A2B0E1178AC9F6152273DF43E65E36483FBFFD31D8C2A8A2874419D4B2B931D34E8085CFE711",
+        "version": "0.0.8",
+        "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpmasterthieving-0.0.8.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WTvTbSPknJ",
+    "provider": "WaRp",
+    "name": "WarpSpinner",
+    "description": "Spins flax",
+    "id": "warpspinner-plugin",
+    "releases": [
+      {
+        "date": "2022-12-28",
+        "sha512sum": "53A6AFA4924123C98BADEB0EE387DAE300A115FF760B4A519C14E135069D45E9A26CAF61C2BF0742CED9D447B81DC4860E8E22146BEDC6EFCC89C06CF34882B3",
+        "version": "0.0.2",
+        "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpspinner-0.0.2.jar",
+        "requires": "^1.0.0"
+      }
+    ]
   }
 ]
