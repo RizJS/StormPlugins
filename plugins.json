@@ -35,7 +35,7 @@
         "requires": "^1.0.0"
       },
       {
-        "date": "2022-12-29",
+        "date": "2022-12-30",
         "sha512sum": "67A33462F18527834074BABBD0EE174FD4FC5265C53DDD31323DB45F2044E0E6F863A719B74608BAC420D327BA23F26C5684ED56100EE9DC1D2674DF379ABE48",
         "version": "0.1.2",
         "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpcrabs-0.1.2.jar",
@@ -58,7 +58,7 @@
         "requires": "^1.0.0"
       },
       {
-        "date": "2022-12-29",
+        "date": "2022-12-30",
         "sha512sum": "72788E5063BBF006395917001CAF612F2D869A11F539AC7A2ADF319DADF13EBDFAA725DACCB35950E552F382A324F4C1B42AE5D27B3E9BDE44599ECAE02C285B",
         "version": "0.1.1",
         "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpcutter-0.1.1.jar",
@@ -81,7 +81,7 @@
         "requires": "^1.0.0"
       },
       {
-        "date": "2022-12-29",
+        "date": "2022-12-30",
         "sha512sum": "F88E6A386EB3063ACC337E68EB3D14C1150804896A82393045B24153A09D66D0D89CA8FA0DD830EB3C3146E153A0E8473AFD0A1CBC8989BC932DF63768B9F715",
         "version": "0.2.0",
         "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpgauntlet-0.2.0.jar",
@@ -155,7 +155,7 @@
         "requires": "^1.0.0"
       },
       {
-        "date": "2022-12-29",
+        "date": "2022-12-30",
         "sha512sum": "E19997A03539E45EC0ABC8E75041547D677D27D26A009655615DF267715D1083CCB5D28E0830AC11847D0ADADC5F21EDD75176228891E37F02B2AE323620308F",
         "version": "0.2.3",
         "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpskiller-0.2.3.jar",
@@ -178,7 +178,7 @@
         "requires": "^1.0.0"
       },
       {
-        "date": "2022-12-29",
+        "date": "2022-12-30",
         "sha512sum": "6049BC0850922411F28E86A876493587A71699FEF57F4A1B25AD606946241B08B490A4B4CDED4ED6D54B40E085FBFBB57609E75BF70450FA52824FD1FA05AE43",
         "version": "0.1.1",
         "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpvyrekiller-0.1.1.jar",
@@ -201,7 +201,7 @@
         "requires": "^1.0.0"
       },
       {
-        "date": "2022-12-29",
+        "date": "2022-12-30",
         "sha512sum": "AFBD9CCC90E8E7E4BE6D6F3A4B2D112011D41AFAE1D42DDB8F393A830F34E64043C2B8C41B49C30C3F5EC8CF44804A7BF9DB0D1C0EDCF2C05892086D2E71A6DE",
         "version": "0.1.0",
         "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpmasterthieving-0.1.0.jar",
@@ -224,10 +224,17 @@
         "requires": "^1.0.0"
       },
       {
-        "date": "2022-12-29",
-        "sha512sum": "98614EC72DBCFB5DAA589B77F215CF157B08916D968FDB410D3A4770A52E492E4FB7483D994D8A2304AF4B9D782039D80AD0CB4D2604D5EDF61B63F270D8C217",
+        "date": "2022-12-30",
+        "sha512sum": "CFCA5D2EBB81462AE6451DF64FCAF5E896204E5F349E5B5005A4F05457EDACA9FD805FCAA0048D01CB8187CE51A26567163CBFB1575322B52E7326CDB6C1B42D",
         "version": "0.0.3",
         "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpspinner-0.0.3.jar",
+        "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-12-30",
+        "sha512sum": "6C549A2F7A47AC73E3684F5A11EDE1029612AA4A141951FC045FF3E4C2B6B847309B1F777E801A1477085A9513E05BD048D6B65660A90AE39F169146C4BD39BD",
+        "version": "0.0.4",
+        "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpspinner-0.0.4.jar",
         "requires": "^1.0.0"
       }
     ]
