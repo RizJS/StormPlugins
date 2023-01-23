@@ -54,6 +54,13 @@
         "version": "0.1.4",
         "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpcrabs-0.1.4.jar",
         "requires": "^1.0.0"
+      },
+      {
+        "date": "2023-01-23",
+        "sha512sum": "45C639DFE97AFE4E5E4466401DF1A74D070689862651E915F047E989350DBAB893DBB48E222BBF3C546D059BCF2B13EA0EDC76D453F2C67CBCED9E7070F3153D",
+        "version": "0.1.5",
+        "url": "https://raw.githubusercontent.com/WaRpProjects/StormPlugins/master/warpcrabs-0.1.5.jar",
+        "requires": "^1.0.0"
       }
     ]
   },
